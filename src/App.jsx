@@ -6,13 +6,14 @@ import SepecialProduct from "../Sections/SpecialProduct";
 import Footer from "../Sections/Footer";
 import Service from "../Sections/Service";
 import CustomerService from "../Sections/CustomerService";
+import Nav from "../Components/Nav";
 
 
 function App() {
   return (
     <>
     <main className="relative">
-      nav
+      <Nav/>
       <section className="padding-b xl:padding-1 wide:padding-r">
         <Hero/>
       </section>
