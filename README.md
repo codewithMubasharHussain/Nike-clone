@@ -13,7 +13,7 @@ JavaScript: Core language for handling component logic and interactions.
 
 How to Run Locally
 Clone the repository:
-
+https://github.com/codewithMubasharHussain/Nike-clone.git
 **Screenshots**
 ### Home Page
 ![Home Page Screenshot](https://github.com/codewithMubasharHussain/Nike-clone/blob/main/Nike.jpeg)
