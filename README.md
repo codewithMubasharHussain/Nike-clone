@@ -16,7 +16,7 @@ Clone the repository:
 
 **Screenshots**
 ### Home Page
-![Home Page Screenshot](screenshots/homepage.png)
+![Home Page Screenshot](https://github.com/codewithMubasharHussain/Nike-clone/blob/main/Nike.jpeg)
 
 **Future Enhancements**
 Integrate a backend API for real-time data fetching.
